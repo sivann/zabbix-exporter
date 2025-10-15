@@ -1,0 +1,4 @@
+zabbix-exporter.ini
+*.csv
+venv/
+environ
